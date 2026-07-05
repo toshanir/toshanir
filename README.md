@@ -34,5 +34,28 @@
       </td>
   </tr>
 </table>
-  
+
+<h2>
+  <img src="Graph.png" width="50" alt="Rocket">
+  <strong>Github Stack</strong>
+</h2>
+
+<table>
+<tr>
+
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=toshanir&show_icons=true" />
+</td>
+
+<td>
+  <strong>Most Used Languages</strong>
+  https://github-readme-stats.vercel.app/api/top-langs/?username=toshanir&layout=compact
+</td>
+
+<td>
+<img src="https://streak-stats.demolab.com?user=toshanir">
+</td>
+
+</tr>
+</table>
 

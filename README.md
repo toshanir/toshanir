@@ -4,7 +4,7 @@
 
 🚀Tech Stack 
 <p align="center">
-  <img src=C.svg" width="50" alt="C"/>
+  <img src="C.svg" width="50" alt="C"/>
   <img src="Figma-Dark.svg" width="50" alt="Figma"/>
   <img src="Github-Dark.svg" width="50" alt="Github"/>
   <img src="HTML.svg" width="50" alt="HTML"/>

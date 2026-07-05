@@ -44,16 +44,15 @@
 <tr>
 
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=toshanir&show_icons=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshanir&theme=rose_pine" />
 </td>
 
 <td>
-  <strong>Most Used Languages</strong>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=toshanir&layout=compact
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshanir&theme=rose_pine" />
 </td>
 
 <td>
-<img src="https://streak-stats.demolab.com?user=toshanir">
+<img src="https://streak-stats.demolab.com?user=toshanir&theme=rose_pine">
 </td>
 
 </tr>
